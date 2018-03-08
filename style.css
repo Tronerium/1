@@ -43,6 +43,16 @@ h2{
 	border: #f9f5ae 1px solid;
 }
 
+.btn1{
+	background-color: #f9f5ae;
+	color: #fff;
+	text-decoration: none;
+	border: #eee 1px solid;
+	padding: 10px 15px;
+	border-radius: 8px;
+	line-height: 4em;
+}
+
 #particles-js{
 	height: 100%;
 	background: #262626;
